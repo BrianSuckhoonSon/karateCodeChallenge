@@ -38,5 +38,9 @@ hs_err_pid*
 # Mac
 .DS_Store
 
+# Maven
+log/
+target/
+
 # apiKey
 src/test/java/vault.txt
